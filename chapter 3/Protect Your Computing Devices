@@ -1,1 +1,11 @@
 https://support.microsoft.com/en-za/help/4028544/windows-10-turn-microsoft-defender-firewall-on-or-off
+
+
+It's important to have Microsoft Defender Firewall on, even if you already have another firewall on. It helps protect you from unauthorized access.
+
+To turn Microsoft Defender Firewall on or off:
+Select the Start  button > Settings  > Update & Security  > Windows Security and then Firewall & network protection. Open Windows Security settings
+Select a network profile.
+Under Microsoft Defender Firewall, switch the setting to On. If your device is connected to a network, network policy settings might prevent you from completing these steps. For more info, contact your administrator.
+To turn it off, switch the setting to Off. Turning off Windows Defender Firewall could make your device (and network, if you have one) more vulnerable to unauthorized access. If there's an app you need to use that's being blocked, you can allow it through the firewall, instead of turning the firewall off.
+Note: If you get errors, or if the setting won't turn on, you can use the troubleshooter and then try again.
